@@ -3,6 +3,7 @@ import sys
 import itertools
 
 
+# comit
 def findgroups(a, n, summ):
     sumset = {0}
     for each in a:
